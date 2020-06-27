@@ -16,6 +16,7 @@ int main()
     
     
     printf("this program should return 99\n");
+    printf("in addition maybe some other stuff?.\n")
     return 99;
 }
 
